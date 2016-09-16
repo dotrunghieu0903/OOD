@@ -1,0 +1,129 @@
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\bin\Debug\GaraUI.exe.config
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.csprojResolveAssemblyReference.cache
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmBaoCaoTon.resources
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmDoanhSo.resources
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmHieuXe.resources
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmKhoVatTu.resources
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmPhieuSuaChua.resources
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmPhieuThuTien.resources
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmReportPhieuSuaChua.resources
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmTienCong.resources
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmTiepNhanXe.resources
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmTimKiemXe.resources
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmVatTuPhuTung.resources
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.MainForm.resources
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.Properties.Resources.resources
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.csproj.GenerateResource.Cache
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.exe.licenses
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\RdlCompile.cache
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\RdlCompile.compiled
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\bin\Debug\GaraUI.exe
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\bin\Debug\GaraUI.pdb
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\bin\Debug\GaraBUSSINESS.dll
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\bin\Debug\GaraDATA.dll
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\bin\Debug\GaraBUSSINESS.pdb
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\bin\Debug\GaraDATA.pdb
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.exe
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.pdb
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.csprojFakesResolveAssemblyReference.cache
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\Fakes\dexb142\b\DevExpress.XtraBars.v14.2.Fakes.dll
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\Fakes\dexb142\b\DevExpress.XtraBars.v14.2.Fakes.fakesconfig
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\Fakes\dexb142\b\DevExpress.XtraBars.v14.2.Fakes.pdb
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\Fakes\dexb142\b\DevExpress.XtraBars.v14.2.Fakes.xml
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\Fakes\dexb142\b\DevExpress.XtraGrid.v14.2.dll
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\Fakes\dexb142\b\DevExpress.XtraGrid.v14.2.xml
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\Fakes\dexb142\b\de\DevExpress.XtraGrid.v14.2.resources.dll
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\Fakes\dexb142\b\es\DevExpress.XtraGrid.v14.2.resources.dll
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\Fakes\dexb142\b\GaraBUSSINESS.dll
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\Fakes\dexb142\b\GaraBUSSINESS.pdb
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\Fakes\dexb142\b\GaraDATA.dll
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\Fakes\dexb142\b\GaraDATA.pdb
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\Fakes\dexb142\b\ja\DevExpress.XtraGrid.v14.2.resources.dll
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\Fakes\dexb142\b\Microsoft.QualityTools.Testing.Fakes.dll
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\Fakes\dexb142\b\ru\DevExpress.XtraGrid.v14.2.resources.dll
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\Fakes\dexb142\f.ah
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\Fakes\dexb142\f.ch
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\Fakes\dexb142\f.cs
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\Fakes\dexb142\f.csproj
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\Fakes\dexb142\f.fakes
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\Fakes\dexb142\f.fakesconfig
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\Fakes\dexb142\f.snk
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\Fakes\dexb142\o\DevExpress.XtraBars.v14.2.Fakes.dll
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\Fakes\dexb142\o\DevExpress.XtraBars.v14.2.Fakes.pdb
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\Fakes\dexb142\o\f.csproj.FileListAbsolute.txt
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\Fakes\dexb142\o\f.csprojResolveAssemblyReference.cache
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\Fakes\fakes.args
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\bin\Debug\DevExpress.XtraGrid.v14.2.dll
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\bin\Debug\DevExpress.XtraGrid.v14.2.xml
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\bin\Debug\de\DevExpress.XtraGrid.v14.2.resources.dll
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\bin\Debug\es\DevExpress.XtraGrid.v14.2.resources.dll
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\bin\Debug\ja\DevExpress.XtraGrid.v14.2.resources.dll
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\bin\Debug\ru\DevExpress.XtraGrid.v14.2.resources.dll
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\bin\Debug\DevExpress.XtraBars.v14.2.Fakes.fakesconfig
+E:\HK6\VẬN HÀNH BẢO TRÌ\QUANLI_GARA_OTO\QUANLI_GARA_OTO\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmDangNhap.resources
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\bin\Debug\GaraUI.exe.config
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\bin\Debug\GaraUI.exe
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\bin\Debug\GaraUI.pdb
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\bin\Debug\DevExpress.XtraBars.v14.2.Fakes.fakesconfig
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\bin\Debug\GaraBUSSINESS.dll
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\bin\Debug\GaraDATA.dll
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\bin\Debug\GaraBUSSINESS.pdb
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\bin\Debug\GaraDATA.pdb
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.csprojFakesResolveAssemblyReference.cache
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmBaoCaoTon.resources
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmDangNhap.resources
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmDoanhSo.resources
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmHieuXe.resources
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmKhoVatTu.resources
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmPhieuSuaChua.resources
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmPhieuThuTien.resources
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmReportPhieuSuaChua.resources
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmTienCong.resources
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmTiepNhanXe.resources
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmTimKiemXe.resources
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmVatTuPhuTung.resources
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.MainForm.resources
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.Properties.Resources.resources
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.csproj.GenerateResource.Cache
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.exe.licenses
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\obj\Debug\RdlCompile.cache
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\obj\Debug\RdlCompile.compiled
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.exe
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.pdb
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.csprojResolveAssemblyReference.cache
+E:\HK6\VẬN HÀNH BẢO TRÌ\ĐỒ ÁN CUỐI KÌ\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmChonMayChu.resources
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\bin\Debug\GaraUI.exe.config
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\bin\Debug\GaraUI.exe
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\bin\Debug\GaraUI.pdb
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\bin\Debug\DevExpress.XtraBars.v14.2.Fakes.fakesconfig
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\bin\Debug\GaraBUSSINESS.dll
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\bin\Debug\GaraDATA.dll
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\bin\Debug\GaraBUSSINESS.pdb
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\bin\Debug\GaraDATA.pdb
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.csprojFakesResolveAssemblyReference.cache
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.csprojResolveAssemblyReference.cache
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmBaoCaoTon.resources
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmChonMayChu.resources
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmDangNhap.resources
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmDoanhSo.resources
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmHieuXe.resources
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmKhoVatTu.resources
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmPhieuSuaChua.resources
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmPhieuThuTien.resources
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmReportPhieuSuaChua.resources
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmThongTin.resources
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmTienCong.resources
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmTiepNhanXe.resources
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmTimKiemXe.resources
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.frmVatTuPhuTung.resources
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.MainForm.resources
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.Properties.Resources.resources
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.csproj.GenerateResource.Cache
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.exe.licenses
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\obj\Debug\RdlCompile.cache
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\obj\Debug\RdlCompile.compiled
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.exe
+E:\HK6\MAINTANCE\FINAL PROJECT\QUAN LY GARA OTO\GaraUI\obj\Debug\GaraUI.pdb

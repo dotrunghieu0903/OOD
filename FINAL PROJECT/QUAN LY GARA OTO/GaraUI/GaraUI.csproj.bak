@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{614C673B-85EB-4A2C-959D-7122E68CEB2C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GaraUI</RootNamespace>
+    <AssemblyName>GaraUI</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>GaraUI.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar.Keyboard, Version=12.2.0.4, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.DotNetBar.Layout, Version=12.2.0.4, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.DotNetBar2, Version=12.2.0.4, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v14.2, Version=14.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v14.2, Version=14.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v14.2, Version=14.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v14.2, Version=14.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v14.2, Version=14.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v14.2, Version=14.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.QualityTools.Testing.Fakes, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmBaoCaoTon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBaoCaoTon.Designer.cs">
+      <DependentUpon>frmBaoCaoTon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDangNhap.Designer.cs">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDoanhSo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDoanhSo.Designer.cs">
+      <DependentUpon>frmDoanhSo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHieuXe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHieuXe.Designer.cs">
+      <DependentUpon>frmHieuXe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKhoVatTu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKhoVatTu.Designer.cs">
+      <DependentUpon>frmKhoVatTu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPhieuSuaChua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPhieuSuaChua.Designer.cs">
+      <DependentUpon>frmPhieuSuaChua.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPhieuThuTien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPhieuThuTien.Designer.cs">
+      <DependentUpon>frmPhieuThuTien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportPhieuSuaChua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportPhieuSuaChua.Designer.cs">
+      <DependentUpon>frmReportPhieuSuaChua.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTienCong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTienCong.Designer.cs">
+      <DependentUpon>frmTienCong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTiepNhanXe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTiepNhanXe.Designer.cs">
+      <DependentUpon>frmTiepNhanXe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTimKiemXe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTimKiemXe.Designer.cs">
+      <DependentUpon>frmTimKiemXe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVatTuPhuTung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVatTuPhuTung.Designer.cs">
+      <DependentUpon>frmVatTuPhuTung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyTabPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="MainForm.cs" />
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QUAN_LY_GARA_OTODataSet.cs">
+      <DependentUpon>QUAN_LY_GARA_OTODataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="QUAN_LY_GARA_OTODataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QUAN_LY_GARA_OTODataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="rpPhieuSuaChua.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpPhieuSuaChua.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmBaoCaoTon.resx">
+      <DependentUpon>frmBaoCaoTon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDangNhap.resx">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDoanhSo.resx">
+      <DependentUpon>frmDoanhSo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHieuXe.resx">
+      <DependentUpon>frmHieuXe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKhoVatTu.resx">
+      <DependentUpon>frmKhoVatTu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPhieuSuaChua.resx">
+      <DependentUpon>frmPhieuSuaChua.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPhieuThuTien.resx">
+      <DependentUpon>frmPhieuThuTien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportPhieuSuaChua.resx">
+      <DependentUpon>frmReportPhieuSuaChua.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTienCong.resx">
+      <DependentUpon>frmTienCong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTiepNhanXe.resx">
+      <DependentUpon>frmTiepNhanXe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTimKiemXe.resx">
+      <DependentUpon>frmTimKiemXe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVatTuPhuTung.resx">
+      <DependentUpon>frmVatTuPhuTung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="rp_PhieuSuaChua.rdlc" />
+    <EmbeddedResource Include="rpDoanhSo.rdlc" />
+    <EmbeddedResource Include="rpPhieuThuTien.rdlc" />
+    <Fakes Include="Fakes\DevExpress.XtraBars.v14.2.fakes" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="rpPhieuSuaChua.xsc">
+      <DependentUpon>rpPhieuSuaChua.xsd</DependentUpon>
+    </None>
+    <None Include="rpPhieuSuaChua.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>rpPhieuSuaChua.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="rpPhieuSuaChua.xss">
+      <DependentUpon>rpPhieuSuaChua.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="QUAN_LY_GARA_OTODataSet.xsc">
+      <DependentUpon>QUAN_LY_GARA_OTODataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QUAN_LY_GARA_OTODataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QUAN_LY_GARA_OTODataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QUAN_LY_GARA_OTODataSet.xss">
+      <DependentUpon>QUAN_LY_GARA_OTODataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\biome1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GaraBUSSINESS\GaraBUSSINESS.csproj">
+      <Project>{5fd7c386-5073-4273-b524-9969d2df588f}</Project>
+      <Name>GaraBUSSINESS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GaraDATA\GaraDATA.csproj">
+      <Project>{c64d0bb2-e261-4822-ba87-7ebb335d55bf}</Project>
+      <Name>GaraDATA</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dang Nhap.png" />
+    <Content Include="Resources\Lamborghini-Gallardo-Wallpaper-341.jpg" />
+    <None Include="Resources\Lamborghini-Gallardo-Wallpaper-3411.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C64D0BB2-E261-4822-BA87-7EBB335D55BF}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GaraDATA</RootNamespace>
+    <AssemblyName>GaraDATA</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.SqlServer.Smo, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DAL\BaoCaoDoanhSoDAL.cs" />
+    <Compile Include="DAL\CT_BaoCaoDoanhSoDAL.cs" />
+    <Compile Include="DAL\CT_PhieuNhapVatTuDAL.cs" />
+    <Compile Include="DAL\CT_PhieuSuaChuaDAL.cs" />
+    <Compile Include="DAL\HieuXeDAL.cs" />
+    <Compile Include="DAL\KhachHangDAL.cs" />
+    <Compile Include="DAL\MayChuDAL.cs" />
+    <Compile Include="DAL\NhanVienDAL.cs" />
+    <Compile Include="DAL\PhieuNhapVatTuDAL.cs" />
+    <Compile Include="DAL\PhieuSuaChuaDAL.cs" />
+    <Compile Include="DAL\PhieuThuTienDAL.cs" />
+    <Compile Include="DAL\TienCongDAL.cs" />
+    <Compile Include="DAL\VatTuPhuTungDAL.cs" />
+    <Compile Include="Info\BaoCaoDoanhSo.cs" />
+    <Compile Include="Info\BaoCaoTon.cs" />
+    <Compile Include="Info\CT_BaoCaoDoanhSo.cs" />
+    <Compile Include="Info\CT_PhieuNhapVatTu.cs" />
+    <Compile Include="Info\CT_PhieuSuaChua.cs" />
+    <Compile Include="Info\HieuXe.cs" />
+    <Compile Include="Info\KhachHang.cs" />
+    <Compile Include="Info\NhanVien.cs" />
+    <Compile Include="Info\PhieuNhapVatTu.cs" />
+    <Compile Include="Info\PhieuSuaChua.cs" />
+    <Compile Include="Info\PhieuThuTien.cs" />
+    <Compile Include="Info\TienCong.cs" />
+    <Compile Include="Info\VatTuPhuTung.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlDataProvider.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
